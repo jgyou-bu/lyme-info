@@ -1,0 +1,22 @@
+{
+  "name": "lyme-info",
+  "version": "1.0.0",
+  "description": "Lyme website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgyou-bu/lyme-info.git"
+  },
+  "author": "Lisa Park, Jacqueline You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgyou-bu/lyme-info/issues"
+  },
+  "homepage": "https://github.com/jgyou-bu/lyme-info#readme",
+  "dependencies": {
+    "uswds": "^1.4.1"
+  }
+}
